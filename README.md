@@ -1,4 +1,3 @@
-# Standard Seti Icons + Standard Folder Icons from Minimal
-## Finally
-### Someone did it
+# Good Icons
+
 ![Alt text](image.png)
