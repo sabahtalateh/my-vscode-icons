@@ -1,0 +1,25 @@
+{
+  "name": "my-icons",
+  "displayName": "My Icons",
+  "description": "My Icons",
+  "version": "0.0.1",
+  "repository": {"url": "https://github.com/sabahtalateh/my-vscode-icons"},
+  "publisher": "sabaken",
+  "license": "MIT",
+  "icon": "icons/seti-circular-128x128.png",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "my-icons",
+        "label": "My Icons",
+        "path": "./icons/icon-theme.json"
+      }
+    ]
+  }
+}

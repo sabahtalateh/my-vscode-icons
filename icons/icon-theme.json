@@ -1,0 +1,351 @@
+{
+	"hidesExplorerArrows": true,
+	"iconDefinitions": {
+		"file_text": {
+			"iconPath": "./images/text.svg"
+		},
+		"file_kotlin": {
+			"iconPath": "./images/kotlin.svg"
+		},
+		"folder": {
+			"iconPath": "./images/folder.svg"
+		},
+		"file_ignored": {
+			"iconPath": "./images/ignored.svg"
+		},
+		"file_css": {
+			"iconPath": "./images/css.svg"
+		},
+		"file_erb": {
+			"iconPath": "./images/erbFile.svg"
+		},
+		"file_scss": {
+			"iconPath": "./images/scss.svg"
+		},
+		"file_json": {
+			"iconPath": "./images/json.svg"
+		},
+		"file_html": {
+			"iconPath": "./images/html.svg"
+		},
+		"file_react": {
+			"iconPath": "./images/react.svg"
+		},
+		"file_ruby": {
+			"iconPath": "./images/ruby.svg"
+		},
+		"file_rake": {
+			"iconPath": "./images/rakeTask.svg"
+		},
+		"file_gemfile": {
+			"iconPath": "./images/rubyGems.svg"
+		},
+		"file_less": {
+			"iconPath": "./images/less.svg"
+		},
+		"file_javascript": {
+			"iconPath": "./images/javaScript.svg"
+		},
+		"file_typescript": {
+			"iconPath": "./images/typeScript.svg"
+		},
+		"file_csv": {
+			"iconPath": "./images/csv.svg"
+		},
+		"file_vue": {
+			"iconPath": "./images/vueJs.svg"
+		},
+		"file_editorconfig": {
+			"iconPath": "./images/editorConfig.svg"
+		},
+		"file_image": {
+			"iconPath": "./images/image.svg"
+		},
+		"file_font": {
+			"iconPath": "./images/font.svg"
+		},
+		"file_yaml": {
+			"iconPath": "./images/yaml.svg"
+		},
+		"file_java": {
+			"iconPath": "./images/java.svg"
+		},
+		"file_xml": {
+			"iconPath": "./images/xml.svg"
+		},
+		"file_sql": {
+			"iconPath": "./images/sql.svg"
+		},
+		"file_slim": {
+			"iconPath": "./images/slim.svg"
+		},
+		"file_yarn": {
+			"iconPath": "./images/yarn.svg"
+		},
+		"file_markdown": {
+			"iconPath": "./images/markdown.svg"
+		},
+		"file_gitignore": {
+			"iconPath": "./images/gitignore.svg"
+		},
+		"file_properties": {
+			"iconPath": "./images/properties.svg"
+		},
+		"file_shell": {
+			"iconPath": "./images/shell.svg"
+		},
+		"file_h": {
+			"iconPath": "./images/h.svg"
+		},
+		"file_c": {
+			"iconPath": "./images/c.svg"
+		},
+		"file_cpp": {
+			"iconPath": "./images/cpp.svg"
+		},
+		"file_scala": {
+			"iconPath": "./images/scala.svg"
+		},
+		"file_archive": {
+			"iconPath": "./images/archive.svg"
+		},
+		"file_toml": {
+			"iconPath": "./images/toml.svg"
+		},
+		"file_python": {
+			"iconPath": "./images/python.svg"
+		},
+		"file_terraform": {
+			"iconPath": "./images/terraform.svg"
+		},
+		"file_go": {
+			"iconPath": "./images/go2.svg"
+		},
+		"file_http": {
+			"iconPath": "./images/http.svg"
+		},
+		"file_dart": {
+			"iconPath": "./images/dart.svg"
+		},
+		"file_docker": {
+			"iconPath": "./images/docker.svg"
+		},
+		"file_actionscript": {
+			"iconPath": "./images/actionScript.svg"
+		},
+		"file_php": {
+			"iconPath": "./images/php.svg"
+		},
+		"file_makefile": {
+			"iconPath": "./images/makefile.svg"
+		},
+		"file_config": {
+			"iconPath": "./images/config.svg"
+		},
+		"file_any": {
+			"iconPath": "./images/anyType.svg"
+		},
+		"file_svelte": {
+			"iconPath": "./images/svelte.svg"
+		},
+		"file_rust": {
+			"iconPath": "./images/rustFile.svg"
+		},
+		"file_cargo": {
+			"iconPath": "./images/cargo.svg"
+		},
+		"file_cargolock": {
+			"iconPath": "./images/cargoLock.svg"
+		},
+		"file_cmake": {
+			"iconPath": "./images/CMake.svg"
+		},
+		"file_pnpm": {
+			"iconPath": "./images/pnpm.svg"
+		},
+		"file_tailwind": {
+			"iconPath": "./images/tailwind.svg"
+		},
+		"file_vite": {
+			"iconPath": "./images/vite.svg"
+		},
+		"file_postcss": {
+			"iconPath": "./images/postcss.svg"
+		},
+		"file_angular": {
+			"iconPath": "./images/angularJS.svg"
+		},
+		"file_eslint": {
+			"iconPath": "./images/eslint.svg"
+		},
+		"file_cs": {
+			"iconPath": "./images/cs.svg"
+		},
+		"file_cshtml": {
+			"iconPath": "./images/cshtml.svg"
+		},
+		"file_csproj": {
+			"iconPath": "./images/csproj.svg"
+		},
+		"_root_folder_dark": {
+			"iconPath": "./images/root-folder-dark.svg"
+		},
+		"_root_folder_open_dark": {
+			"iconPath": "./images/root-folder-open-dark.svg"
+		},
+		"_folder_dark": {
+			"iconPath": "./images/folder-dark.svg"
+		},
+		"_folder_open_dark": {
+			"iconPath": "./images/folder-open-dark.svg"
+		},
+		"_file_dark": {
+			"iconPath": "./images/document-dark.svg"
+		},
+		"_root_folder": {
+			"iconPath": "./images/root-folder-light.svg"
+		},
+		"_root_folder_open": {
+			"iconPath": "./images/root-folder-open-light.svg"
+		},
+		"_folder_light": {
+			"iconPath": "./images/folder-light.svg"
+		},
+		"_folder_open_light": {
+			"iconPath": "./images/folder-open-light.svg"
+		},
+	},
+	"file": "file_text",
+	"folderExpanded": "_folder_open_light",
+	"folder": "_folder_light",
+	"rootFolderExpanded": "_root_folder_open",
+	"rootFolder": "_root_folder",
+	"folderNames": {},
+	"fileExtensions": {
+		"dart": "file_dart",
+		"css": "file_css",
+		"scss": "file_scss",
+		"erb": "file_erb",
+		"sass": "file_scss",
+		"kt": "file_kotlin",
+		"json": "file_json",
+		"html": "file_html",
+		"jsx": "file_react",
+		"tsx": "file_react",
+		"rake": "file_rake",
+		"rb": "file_ruby",
+		"less": "file_less",
+		"js": "file_javascript",
+		"cjs": "file_javascript",
+		"mjs": "file_javascript",
+		"ts": "file_typescript",
+		"cts": "file_typescript",
+		"mts": "file_typescript",
+		"csv": "file_csv",
+		"vue": "file_vue",
+		"png": "file_image",
+		"webp": "file_image",
+		"jpg": "file_image",
+		"jpeg": "file_image",
+		"gif": "file_image",
+		"ico": "file_image",
+		"svg": "file_image",
+		"ttf": "file_font",
+		"woff": "file_font",
+		"oft": "file_font",
+		"eot": "file_font",
+		"yaml": "file_yaml",
+		"yml": "file_yaml",
+		"java": "file_java",
+		"xml": "file_xml",
+		"sql": "file_sql",
+		"md": "file_markdown",
+		"properties": "file_properties",
+		"sh": "file_shell",
+		"zsh": "file_shell",
+		"bash": "file_shell",
+		"h": "file_h",
+		"hh": "file_h",
+		"hpp": "file_h",
+		"hxx": "file_h",
+		"c": "file_c",
+		"cc": "file_cpp",
+		"cpp": "file_cpp",
+		"cxx": "file_cpp",
+		"scala": "file_scala",
+		"gz": "file_archive",
+		"zip": "file_archive",
+		"rar": "file_archive",
+		"7z": "file_archive",
+		"tar": "file_archive",
+		"toml": "file_toml",
+		"py": "file_python",
+		"tf": "file_terraform",
+		"go": "file_go",
+		"http": "file_http",
+		"rest": "file_http",
+		"as": "file_actionscript",
+		"php": "file_php",
+		"cfg": "file_config",
+		"conf": "file_config",
+		"cnf": "file_config",
+		"svelte": "file_svelte",
+		"slim": "file_slim",
+		"rs": "file_rust",
+		"cs": "file_cs",
+		"cshtml": "file_cshtml",
+		"csproj": "file_csproj"
+	},
+	"fileNames": {
+		".gitignore": "file_gitignore",
+		".gitattributes": "file_gitignore",
+		".gitmodules": "file_gitignore",
+		".editorconfig": "file_editorconfig",
+		".yarnrc": "file_yarn",
+		"yarn.lock": "file_yarn",
+		"README": "file_markdown",
+		".dockerignore": "file_ignored",
+		"Dockerfile": "file_docker",
+		"Dockerfile.test": "file_docker",
+		"Dockerfile.staging": "file_docker",
+		"Dockerfile.production": "file_docker",
+		"Gemfile": "file_gemfile",
+		"Gemfile.lock": "file_gemfile",
+		"Makefile": "file_makefile",
+		".env": "file_any",
+		".env.local": "file_any",
+		".env.test": "file_any",
+		".env.example": "file_any",
+		".env.development": "file_any",
+		".env.production": "file_any",
+		".env.test.local": "file_any",
+		".env.development.local": "file_any",
+		".env.production.local": "file_any",
+		"Cargo.toml": "file_cargo",
+		"rust-toolchain.toml": "file_cargo",
+		"Cargo.lock": "file_cargolock",
+		"CMakeLists.txt": "file_cmake",
+		"pnpm-lock.yaml": "file_pnpm",
+		"pnpm-workspace.yaml": "file_pnpm",
+		"tailwind.config.js": "file_tailwind",
+		"tailwind.config.cjs": "file_tailwind",
+		"tailwind.config.ts": "file_tailwind",
+		"vite.config.js": "file_vite",
+		"vite.config.cjs": "file_vite",
+		"vite.config.ts": "file_vite",
+		"postcss.config.js": "file_postcss",
+		"postcss.config.cjs": "file_postcss",
+		"postcss.config.ts": "file_postcss",
+		"angular.json": "file_angular",
+		".eslintrc": "file_eslint",
+		".eslintrc.cjs": "file_eslint",
+		".eslintrc.js": "file_eslint",
+		".eslintrc.ts": "file_eslint",
+		".eslintrc.json": "file_eslint",
+		".eslintrc.yml": "file_eslint",
+		".eslintrc.yaml": "file_eslint",
+		".eslintignore": "file_eslint"
+	},
+	"languageIds": {},
+	"highContrast": {}
+}
