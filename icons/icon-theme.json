@@ -8,7 +8,7 @@
 			"iconPath": "./images/kotlin.svg"
 		},
 		"folder": {
-			"iconPath": "./images/folder.svg"
+			"iconPath": "./images/folder2.svg"
 		},
 		"file_ignored": {
 			"iconPath": "./images/ignored.svg"
@@ -203,21 +203,21 @@
 			"iconPath": "./images/document-dark.svg"
 		},
 		"_root_folder": {
-			"iconPath": "./images/root-folder-light.svg"
+			"iconPath": "./images/rootfolder2.svg"
 		},
 		"_root_folder_open": {
-			"iconPath": "./images/root-folder-open-light.svg"
+			"iconPath": "./images/rootfolderopen2.svg"
 		},
 		"_folder_light": {
 			"iconPath": "./images/folder-light.svg"
 		},
 		"_folder_open_light": {
-			"iconPath": "./images/folder-open-light.svg"
+			"iconPath": "./images/folderopen2.svg"
 		},
 	},
-	"file": "file_text",
+	"file": "file_any",
 	"folderExpanded": "_folder_open_light",
-	"folder": "_folder_light",
+	"folder": "folder",
 	"rootFolderExpanded": "_root_folder_open",
 	"rootFolder": "_root_folder",
 	"folderNames": {},
