@@ -1,14 +1,26 @@
 {
-	// "hidesExplorerArrows": true,
+	"hidesExplorerArrows": true,
 	"iconDefinitions": {
+		"folder": {
+			"iconPath": "./images/custom/folder.svg"
+		},
+		"folder_open": {
+			"iconPath": "./images/custom/folder-open.svg"
+		},
+		"root_folder": {
+			"iconPath": "./images/custom/root-folder.svg"
+		},
+		"root_folder_open": {
+			"iconPath": "./images/custom/root-folder-open.svg"
+		},
+		"file_any": {
+			"iconPath": "./images/anyType.svg"
+		},
 		"file_text": {
 			"iconPath": "./images/text.svg"
 		},
 		"file_kotlin": {
 			"iconPath": "./images/kotlin.svg"
-		},
-		"folder": {
-			"iconPath": "./images/folder2.svg"
 		},
 		"file_ignored": {
 			"iconPath": "./images/ignored.svg"
@@ -142,9 +154,6 @@
 		"file_config": {
 			"iconPath": "./images/config.svg"
 		},
-		"file_any": {
-			"iconPath": "./images/anyType.svg"
-		},
 		"file_svelte": {
 			"iconPath": "./images/svelte.svg"
 		},
@@ -187,39 +196,12 @@
 		"file_csproj": {
 			"iconPath": "./images/csproj.svg"
 		},
-		"_root_folder_dark": {
-			"iconPath": "./images/root-folder-dark.svg"
-		},
-		"_root_folder_open_dark": {
-			"iconPath": "./images/root-folder-open-dark.svg"
-		},
-		"_folder_dark": {
-			"iconPath": "./images/folder-dark.svg"
-		},
-		"_folder_open_dark": {
-			"iconPath": "./images/folder-open-dark.svg"
-		},
-		"_file_dark": {
-			"iconPath": "./images/document-dark.svg"
-		},
-		"_root_folder": {
-			"iconPath": "./images/rootfolder2.svg"
-		},
-		"_root_folder_open": {
-			"iconPath": "./images/rootfolderopen2.svg"
-		},
-		"_folder_light": {
-			"iconPath": "./images/folder-light.svg"
-		},
-		"_folder_open_light": {
-			"iconPath": "./images/folderopen2.svg"
-		},
 	},
 	"file": "file_any",
-	"folderExpanded": "_folder_open_light",
 	"folder": "folder",
-	"rootFolderExpanded": "_root_folder_open",
-	"rootFolder": "_root_folder",
+	"folderExpanded": "folder_open",
+	"rootFolder": "root_folder",
+	"rootFolderExpanded": "root_folder_open",
 	"folderNames": {},
 	"fileExtensions": {
 		"dart": "file_dart",
