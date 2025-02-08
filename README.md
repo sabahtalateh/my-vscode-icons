@@ -13,3 +13,5 @@ npm install -g @vscode/vsce
 vsce package
 vsce publish
 ```
+
+Made with https://boxy-svg.com
