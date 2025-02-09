@@ -2,7 +2,7 @@
 
 Yellow folders finally arrived.
 
-Modified JetBrains icon theme.
+Modified icons from https://github.com/cadamsdev/vscode-jetbrains-icon-theme/tree/main.
 
 ![Alt text](image.png)
 
