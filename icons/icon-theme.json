@@ -17,6 +17,9 @@
 		"file_go": {
 			"iconPath": "./images/custom/go.svg"
 		},
+		"ya": {
+			"iconPath": "./images/custom/ya.svg"
+		},
 		// Left as is
 		"file_any": {
 			"iconPath": "./images/anyType.svg"
@@ -281,6 +284,7 @@
 		"csproj": "file_csproj"
 	},
 	"fileNames": {
+		"ya.make": "ya",
 		".gitignore": "file_gitignore",
 		".gitattributes": "file_gitignore",
 		".gitmodules": "file_gitignore",
