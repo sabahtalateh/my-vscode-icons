@@ -212,9 +212,6 @@
 	"rootFolderExpanded": "root_folder_open",
 	"folderNames": {},
 	"fileExtensions": {
-		"a": "binary",
-		"bin": "file_type_binary",
-    	"dat": "file_type_binary",
 		"dart": "file_dart",
 		"css": "file_css",
 		"scss": "file_scss",
