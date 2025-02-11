@@ -20,6 +20,9 @@
 		"ya": {
 			"iconPath": "./images/custom/ya.svg"
 		},
+		"binary": {
+			"iconPath": "./images/custom/binary.svg"
+		},
 		// Left as is
 		"file_any": {
 			"iconPath": "./images/anyType.svg"
@@ -209,6 +212,7 @@
 	"rootFolderExpanded": "root_folder_open",
 	"folderNames": {},
 	"fileExtensions": {
+		"a": "binary",
 		"dart": "file_dart",
 		"css": "file_css",
 		"scss": "file_scss",
